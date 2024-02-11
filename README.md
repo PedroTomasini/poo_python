@@ -1,6 +1,6 @@
-# Trilha Python DIO
+# Programação Orientada a Objetos
 
-Este é um projeto da trilha Python da Digital Innovation One (DIO). Aqui você encontrará diversos exemplos e desafios relacionados à programação em Python.
+Este é um projeto de aprendizado sobre Programação Orientada a Objetos(POO). Aqui você encontrará diversos exemplos e desafios relacionados à programação em Python.
 
 ## Conteúdo
 
